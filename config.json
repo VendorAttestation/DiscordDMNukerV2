@@ -1,0 +1,6 @@
+{
+    "settings": {
+      "discord_token": "your_discord_token",
+      "user_id_of_person": "user_id_of_person_delete"
+    }
+}
