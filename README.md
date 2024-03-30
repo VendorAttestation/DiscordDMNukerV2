@@ -25,7 +25,7 @@ DiscordDMNukerV2 is powered by discord.js-selfbot-v13 This means for some reason
 - Async [✔️]
 - Latest Discord API [✔️]
 - Save Images / Videos [❌]
-- Save Logs Of messages [❌✔]
+- Save Logs Of messages [❌]
 - Message Editor Support [❌]
 - Group Chat Support [❌]
 - Channel Message Deleter In guilds [❌]
