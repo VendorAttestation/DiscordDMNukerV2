@@ -46,12 +46,12 @@ DiscordDMNukerV2 is powered by discord.js-selfbot-v13 This means for some reason
 - https://github.com/aiko-chan-ai/discord.js-selfbot-v13 (Master Branch Used Via NPM)
 
 # Donate
-- BTC: bc1qt3z9gfeev4ckkl3mwns0mwe33zjl99whk690ra
-- LTC: LcDbfomhoru4Pd2Y8QidXhn8Ry2B2oxSCg
-- XMR: 45RERZLWrUnip3Wa9Tk9np2Xm1CF79fLpTbErBHCF2XnVbXmpixhAJp1FFNSHkQ2zHcvWVPpxXxat4e6YjFCK4D5MCpRxUG
-- BCH: qzzvlrd95ms2zurr43nzcxxnxy2lr3gn3ux0mwnskt
-- ETH: 0x15f73A7a9f01a6ee3A3d38A8399817bB712196d4
-- TRX (Tron): TXbXSFBF5H94z3YedGkuaHP7ZkkGFDzcBD
+- BTC: bc1q4xyt0f3aj6t5mjw0az5pvsphxc6z7sn8t528e7
+- LTC: La2Hj5NBd6MgdSCKhwcxS4W73sU5oJTJrV
+- XMR: 47yxsfMFMRdPaFSB8R8iJkCQEJPReNwxAXvmMPn3a2SHQaRwFbjRrSNRrYjHuNEeUdeefHo3UoaFFR9RCT9PTLDD6R28wVK
+- BCH: qpupgevkg63t0mvm0ftzudxpnxkt633s3g6ylmg69e
+- ETH: 0xF14E84549Dff67AB430aD1Aa758958Cb01E1f841
+- TRX (Tron): TR7HnkBvpuM9441zGUef9ficjbKXtM2nMN
 
 # How To use
 - Edit .env with info
