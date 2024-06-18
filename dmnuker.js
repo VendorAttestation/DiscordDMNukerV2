@@ -15,6 +15,7 @@ const allowedExtensions = [
     ".jpg", ".jpeg", ".png", ".gif", // Image
     ".mp3", ".wav", ".ogg", ".flac", ".m4a", // Audio
     ".txt", ".json", // Text
+    ".html", ".css", ".js", ".ts", ".jsx", ".tsx", ".java", ".c", ".cpp", ".h", ".cs", ".py", ".rb", ".php", ".go", ".rs", ".swift", ".kt", ".dart" // Coding
 ];
 
 if (!editedText) {
